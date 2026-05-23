@@ -19,3 +19,4 @@ jobs:
           vercel-args: '--prod'
           vercel-org-id: 'dummy_id'
           vercel-project-id: 'dummy_id'
+          working-directory: ./tiktok-clone
